@@ -1,0 +1,16 @@
+/AllServerTests.class
+/ConnectionDBTest.class
+/CreateDBTableTest.class
+/CreateDBTest.class
+/InsertDBTest.class
+<<<<<<< HEAD
+/deleteDbEntryTest.class
+/deleteDocumentTest.class
+/getDBEntryTest.class
+/CreateTableDocumentsTest.class
+=======
+/CreateTableDocumentsTest.class
+/deleteDbEntryTest.class
+/deleteDocumentTest.class
+/getDBEntryTest.class
+>>>>>>> branch 'master' of https://git.fh-campuswien.ac.at/c2010537019/gruppe1.git

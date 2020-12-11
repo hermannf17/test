@@ -1,0 +1,16 @@
+/AllClientTests.class
+/CorrectLoginTest.class
+/EmptyLoginTest.class
+/PingServerTest.class
+/WrongLoginTest.class
+/RequestTesing.class
+<<<<<<< HEAD
+/DownloadFileTest.class
+/getAllFilesTest.class
+/DownloadTest.class
+/UploadFileTest.class
+=======
+/DownloadTest.class
+/UploadFileTest.class
+/getAllFilesTest.class
+>>>>>>> branch 'master' of https://git.fh-campuswien.ac.at/c2010537019/gruppe1.git
